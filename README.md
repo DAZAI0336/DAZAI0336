@@ -5,7 +5,7 @@ This is my sceond year for studing CS, but I still don't know any thing about it
 
 Now, I'm a intern for AI??? How???
 
-Some one help me, I feel I'm a idiot(not that smart) in my company QvQ...
+Some one help me, I feel I'm a idiot in my company QvQ...
 <!--
 **DAZAI0336/DAZAI0336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
